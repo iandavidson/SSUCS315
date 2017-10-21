@@ -1,0 +1,6 @@
+super class - cell
+      subclass - blank cell
+      subclass - wormSegment
+      subclass - wormHead
+      subclass - munchie
+do this because there can never be class of cell by it self 
